@@ -6,8 +6,8 @@ You can do the same for your github profile by creating a repository with the na
 
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [More About Me](#more-about-me)
-- [Social media](#social-media)
-- [Github Stats](#github-stats)
+  - [Social media](#social-media)
+  - [Github Stats](#github-stats-2)
 
 ---
 
@@ -27,19 +27,20 @@ You can do the same for your github profile by creating a repository with the na
 ---
 
 #### More About Me
-
 > I'm in love with JavaScript♥! I dream of it every night. I like making awesome apps and apis and make websites look cool. most of my projects are private but I try to make them available for public as soon as I thought they are finished.
 
 ---
 
 ### Social media
 
+<div align="center">
+
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
 **Website**|`Ludho`|[Website](https://ludho.xyz)|✅
-**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753)<img src="https://discord.c99.nl/widget/theme-1/538014645068234753.png" height="45px" width="240px">|✅
+**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753) <img src="https://discord.c99.nl/widget/theme-1/538014645068234753.png" height="45px" width="240px">|✅
 **YouTube**|`Ludho Mohammadpour`|[Channel](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg)|❌
-**Twitter**|`Am25` (am2501666699)|[Profile](https://twitter.com/am2501666699)|❌
+**Twitter**|`Am25` `(am2501666699)`|[Profile](https://twitter.com/am2501666699)|❌
 **Twitch**|`ludho_mp`|[Channel](https://www.twitch.tv/ludho_mp)|❌
 **Reddit**|`LudhoMP`|[Profile](https://www.reddit.com/user/LudhoMP)|✅
 **Steam**|`am25_2`|[Profile](https://steamcommunity.com/id/Am25_2/)|❌
@@ -47,16 +48,19 @@ Platform|Name|Link to profile|Active
 **osu!**|`LudhoMP`|[Profile](https://osu.ppy.sh/users/15257509)|✅
 **Deviantart**|`LudhoMP`|[Profile](https://www.deviantart.com/ludhomp)|❌
 
+</div>
 ---
 
 ### Github Stats [^2]
+<div align="center">
 
 ![Staaaaaaaaaaats](https://github-readme-stats.vercel.app/api?username=Luhdo&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=323540&title_color=5294E2&icon_color=5294E2&text_color=ffffff&count_private=true)  
 
 ![MoreStats](https://github-readme-streak-stats.herokuapp.com/?user=Luhdo&theme=gruvbox_duo&background=323540&hide_border=true&ring=5294E2&currStreakLabel=5294E2&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=5294E2&text_color=ffffff&count_private=true)
 
 ![EvenMoreStats](https://activity-graph.herokuapp.com/graph?username=Luhdo&custom_title=Luhdo's%20Contribution%20Graph&bg_color=323540&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=true)
-  
+
+</div>
 
 [^1]: Some people might also know me as **AM25** which is an old username.
 [^2]: Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
