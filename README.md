@@ -2,7 +2,7 @@
 Ah hello and welcome to my profile :)
 You can do the same for your github profile by creating a repository with the name of your account.
 -->
-### Bonjour stranger! <img src="assets/Hand.gif" height="35px">
+### Bonjour stranger! <img src="assets/Hand.gif" height="28px">
 
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [More About Me](#more-about-me)
@@ -14,7 +14,7 @@ You can do the same for your github profile by creating a repository with the na
 #### Frequently Asked Questions
 
 - What's Your Name?
-  - I'm ==Ludho==! [^1]
+  - I'm Ludho! [^1]
 - No Really What IS Your Name?
   - it's Ludho, Fist Name Ludho, Last name Mohammadpour :/
 - How Old Are You?
@@ -28,7 +28,7 @@ You can do the same for your github profile by creating a repository with the na
 
 #### More About Me
 
-> I'm in love with JavaScript :fa-heart:! I dream of it every night. I like making awesome apps and apis and make websites look cool. most of my projects are private but I try to make them available for public as soon as I thought they are finished.
+> I'm in love with JavaScript♥! I dream of it every night. I like making awesome apps and apis and make websites look cool. most of my projects are private but I try to make them available for public as soon as I thought they are finished.
 
 ---
 
@@ -37,7 +37,7 @@ You can do the same for your github profile by creating a repository with the na
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
 **Website**|`Ludho`|[Website](https://ludho.xyz)|✅
-**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753)![alt](https://discord.c99.nl/widget/theme-1/538014645068234753.png)|✅
+**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753)<img src="https://discord.c99.nl/widget/theme-1/538014645068234753.png" height="38px" width="200px">|✅
 **YouTube**|`Ludho Mohammadpour`|[Channel](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg)|❌
 **Twitter**|`Am25` (am2501666699)|[Profile](https://twitter.com/am2501666699)|❌
 **Twitch**|`ludho_mp`|[Channel](https://www.twitch.tv/ludho_mp)|❌
