@@ -49,6 +49,7 @@ Platform|Name|Link to profile|Active
 **Deviantart**|`LudhoMP`|[Profile](https://www.deviantart.com/ludhomp)|❌
 
 </div>
+
 ---
 
 ### Github Stats [^2]
