@@ -37,7 +37,7 @@ You can do the same for your github profile by creating a repository with the na
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
 **Website**|`Ludho`|[Website](https://ludho.xyz)|✅
-**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753)<img src="https://discord.c99.nl/widget/theme-1/538014645068234753.png" height="38px" width="200px">|✅
+**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753)<img src="https://discord.c99.nl/widget/theme-1/538014645068234753.png" height="45px" width="240px">|✅
 **YouTube**|`Ludho Mohammadpour`|[Channel](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg)|❌
 **Twitter**|`Am25` (am2501666699)|[Profile](https://twitter.com/am2501666699)|❌
 **Twitch**|`ludho_mp`|[Channel](https://www.twitch.tv/ludho_mp)|❌
