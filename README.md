@@ -20,7 +20,7 @@ You can do the same for your github profile by creating a repository with the na
 - How Old Are You?
    - I'm turning 20 this summer.
 - When Is Your Birthday?
-  - it's July 16^th^.
+  - it's July 16.
 - What's Your Favorite Music Genre?
   - R&B/Soul
 
@@ -40,7 +40,7 @@ You can do the same for your github profile by creating a repository with the na
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
 **Website**[^3]|`Ludho.xyz`|[Website](https://ludho.xyz)|✅
-**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753) <img src="https://discord.c99.nl/widget/theme-4/538014645068234753.png" height="45px">|✅
+**Discord**|`Ludho#1700`|[Profile<img src="https://discord.c99.nl/widget/theme-4/538014645068234753.png" height="45px">](https://discord.com/users/538014645068234753) |✅
 **Telegram**|`@Ludh0`|[Profile](https://t.me/Ludho234)|✅
 **YouTube**|`Ludho Mohammadpour`|[Channel](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg)|❌
 **Twitter**|`Am25` `(am2501666699)`|[Profile](https://twitter.com/am2501666699)|❌
