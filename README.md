@@ -2,7 +2,7 @@
 Ah hello and welcome to my profile :)
 You can do the same for your github profile by creating a repository with the name of your account.
 -->
-### Bonjour stranger! <img src="assets/Hand.gif" height="28px">
+# Bonjour stranger! <img src="assets/Hand.gif" height="28px">
 
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [More About Me](#more-about-me)
@@ -11,7 +11,7 @@ You can do the same for your github profile by creating a repository with the na
 
 ---
 
-#### Frequently Asked Questions
+## Frequently Asked Questions
 
 - What's Your Name?
   - I'm Ludho! [^1]
@@ -26,14 +26,14 @@ You can do the same for your github profile by creating a repository with the na
 
 ---
 
-#### More About Me
+## More About Me
 > I'm in love with JavaScript♥! I dream of it every night. so you mostly find JavaScript projects on this page. I like making awesome apps and apis and make websites look cool. most of my projects are private but I try to make them available for public as soon as I thought they are finished.
 > I always have a cool idea in my slaves!! but I keep those projects half finished so it would be ready as soon as someone or myself need it.
 > and btw, I like triangles.
 
 ---
 
-### Social media
+## Social media
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Platform|Name|Link to profile|Active
 
 ---
 
-### Github Stats [^2]
+## Github Stats [^2]
 <div align="center">
 
 ![Staaaaaaaaaaats](https://github-readme-stats.vercel.app/api?username=Luhdo&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=323540&title_color=5294E2&icon_color=5294E2&text_color=ffffff&count_private=true)  
