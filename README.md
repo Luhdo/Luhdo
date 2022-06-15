@@ -16,7 +16,7 @@ You can do the same for your github profile by creating a repository with the na
 - What's Your Name?
   - I'm Ludho! [^1]
 - No Really What IS Your Name?
-  - it's Ludho, Fist Name Ludho, Last name Mohammadpour :/
+  - it's Ludho, Fist Name Ludho, Last name Mohammadpour 😕
 - How Old Are You?
    - I'm turning 20 this summer.
 - When Is Your Birthday?
@@ -27,7 +27,9 @@ You can do the same for your github profile by creating a repository with the na
 ---
 
 #### More About Me
-> I'm in love with JavaScript♥! I dream of it every night. I like making awesome apps and apis and make websites look cool. most of my projects are private but I try to make them available for public as soon as I thought they are finished.
+> I'm in love with JavaScript♥! I dream of it every night. so you mostly find JavaScript projects on this page. I like making awesome apps and apis and make websites look cool. most of my projects are private but I try to make them available for public as soon as I thought they are finished.
+> I always have a cool idea in my slaves!! but I keep those projects half finished so it would be ready as soon as someone or myself need it.
+> and btw, I like triangles.
 
 ---
 
@@ -37,8 +39,9 @@ You can do the same for your github profile by creating a repository with the na
 
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
-**Website**|`Ludho`|[Website](https://ludho.xyz)|✅
-**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753) <img src="https://discord.c99.nl/widget/theme-1/538014645068234753.png" height="45px" width="240px">|✅
+**Website**[^3]|`Ludho.xyz`|[Website](https://ludho.xyz)|✅
+**Discord**|`Ludho#1700`|[Profile](https://discord.com/users/538014645068234753) <img src="https://discord.c99.nl/widget/theme-4/538014645068234753.png" height="45px">|✅
+**Telegram**|`@Ludh0`|[Profile](https://t.me/Ludho234)|✅
 **YouTube**|`Ludho Mohammadpour`|[Channel](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg)|❌
 **Twitter**|`Am25` `(am2501666699)`|[Profile](https://twitter.com/am2501666699)|❌
 **Twitch**|`ludho_mp`|[Channel](https://www.twitch.tv/ludho_mp)|❌
@@ -65,3 +68,4 @@ Platform|Name|Link to profile|Active
 
 [^1]: Some people might also know me as **AM25** which is an old username.
 [^2]: Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
+[^3]: Hasn't been finished to this day :sadge:
