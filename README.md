@@ -64,7 +64,7 @@ Platform|Name|Link to profile|Active
 
  ![EvenMoreStats](https://activity-graph.herokuapp.com/graph?username=Luhdo&custom_title=Luhdo's%20Contribution%20Graph&bg_color=323540&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=true)
  
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhdo&layout=compact&theme=gruvbox_duo&background=323540&hide_border=true&ring=5294E2&currStreakLabel=5294E2&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=5294E2&text_color=ffffff&count_private=true)
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhdo&layout=compact&theme=gruvbox_duo&bg_color=323540&hide_border=true&ring=5294E2&currStreakLabel=5294E2&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=5294E2&text_color=ffffff&count_private=true)
 
 </div>
 
