@@ -3,6 +3,7 @@ Ah hello and welcome to my profile :)
 You can do the same for your github profile by creating a repository with the name of your account.
 -->
 # Bonjour stranger! <img src="assets/Hand.gif" height="28px">
+<!-- I'm not french btw -->
 
   - [Frequently Asked Questions](#frequently-asked-questions)
   - [More About Me](#more-about-me)
