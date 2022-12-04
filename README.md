@@ -22,8 +22,11 @@ You can do the same for your github profile by creating a repository with the na
    - I'm turning 20 this summer.
 - When Is Your Birthday?
   - it's July 16.
+- What's your major at university?
+  - Computer Engineering 👨‍💻
 - What's Your Favorite Music Genre?
   - R&B/Soul
+
 
 ---
 
