@@ -49,10 +49,10 @@ Platform|Name|Link to profile|Active
 **YouTube**|`Ludho Mohammadpour`|[Channel](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg)|❌
 **Twitter**|`Am25` `(am2501666699)`|[Profile](https://twitter.com/am2501666699)|❌
 **Twitch**|`ludho_mp`|[Channel](https://www.twitch.tv/ludho_mp)|❌
-**Reddit**|`LudhoMP`|[Profile](https://www.reddit.com/user/LudhoMP)|✅
+**Reddit**|`LudhoMP`|[Profile](https://www.reddit.com/user/LudhoMP)|❌
 **Steam**|`am25_2`|[Profile](https://steamcommunity.com/id/Am25_2/)|❌
-**Minecraft**|`Ludho`||✅
-**osu!**|`LudhoMP`|[Profile](https://osu.ppy.sh/users/15257509)|✅
+**Minecraft**|`Ludho`||❌
+**osu!**|`LudhoMP`|[Profile](https://osu.ppy.sh/users/15257509)|❌
 **Deviantart**|`LudhoMP`|[Profile](https://www.deviantart.com/ludhomp)|❌
 
 </div>
