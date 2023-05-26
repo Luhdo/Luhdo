@@ -62,8 +62,6 @@ Platform|Name|Link to profile|Active
 ## Github Stats [^2]
 <div align="center">
 
-![Staaaaaaaaaaats](https://github-readme-stats.vercel.app/api?username=Luhdo&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=323540&title_color=5294E2&icon_color=5294E2&text_color=ffffff&count_private=true)  
-
 ![MoreStats](https://github-readme-streak-stats.herokuapp.com/?user=Luhdo&theme=gruvbox_duo&background=323540&hide_border=true&ring=5294E2&currStreakLabel=5294E2&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=5294E2&text_color=ffffff&count_private=true)
 
  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhdo&layout=compact&langs_count=6&bg_color=323540&hide_border=true&text_color=ffffff)
