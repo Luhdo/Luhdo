@@ -5,10 +5,23 @@ You can do the same for your github profile by creating a repository with the na
 # Bonjour stranger! <img src="assets/Hand.gif" height="28px">
 <!-- I'm not french btw -->
 
+  - [About Me](#about-me)
   - [Frequently Asked Questions](#frequently-asked-questions)
-  - [More About Me](#more-about-me)
   - [Social media](#social-media)
   - [Github Stats](#github-stats-2)
+
+---
+## About Me
+
+Hello there! My name is Ludho Mohammadpour, a passionate individual with a deep love for JavaScript. I am currently pursuing my studies in Computer Engineering, and I'm excited to combine my technical skills with my creativity to build awesome applications and APIs.
+
+On my GitHub profile, you will primarily find JavaScript projects as it is my preferred programming language. While most of my projects are currently set as private, I strive to make them available to the public as soon as I consider them finished.
+
+I have a penchant for coming up with cool ideas, and I keep a collection of ongoing projects that I can quickly finalize when the need arises. I believe in the power of experimentation and continuous learning to enhance my skills and deliver innovative solutions.
+
+Oh, and I have a soft spot for triangles. They are not only geometrically fascinating but also symbolize balance and harmony for me.
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project. Happy coding!
 
 ---
 
@@ -16,24 +29,18 @@ You can do the same for your github profile by creating a repository with the na
 
 - What's Your Name?
   - I'm Ludho! [^1]
-- No Really What IS Your Name?
-  - it's Ludho, Fist Name Ludho, Last name Mohammadpour 😕
-- How Old Are You?
+- No, really, what IS your name?
+  - My full name is Ludho Mohammadpour. 😕
+- How old are you?
    - I'm turning 20 this summer.
-- When Is Your Birthday?
-  - it's July 16.
+- When is your birthday?
+  - My birthday is on July 16th.
 - What's your major at university?
-  - Computer Engineering 👨‍💻
-- What's Your Favorite Music Genre?
-  - R&B/Soul
+  - I'm majoring in Computer Engineering 👨‍💻
+- What's your favorite music genre?
+  - I enjoy R&B/Soul music.
 
-
----
-
-## More About Me
-> I'm in love with JavaScript♥! I dream of it every night. so you mostly find JavaScript projects on this page. I like making awesome apps and apis and make websites look cool. most of my projects are private but I try to make them available for public as soon as I thought they are finished.
-> I always have a cool idea in my slaves!! but I keep those projects half finished so it would be ready as soon as someone or myself need it.
-> and btw, I like triangles.
+Feel free to contact me if you have any additional questions!
 
 ---
 
@@ -44,8 +51,9 @@ You can do the same for your github profile by creating a repository with the na
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
 **Website**[^3]|`Ludho.xyz`|[Website](https://ludho.xyz)|✅
-**Discord**|`Ludho#1700`|[Profile<img src="https://discord.c99.nl/widget/theme-4/538014645068234753.png" height="45px">](https://discord.com/users/538014645068234753) |✅
-**Telegram**|`@Ludh0`|[Profile](https://t.me/Ludho234)|✅
+**Discord**|`ludho_`|[Profile<img src="https://discord.c99.nl/widget/theme-4/538014645068234753.png" height="45px">](https://discord.com/users/538014645068234753) |✅
+**Telegram**|`@Ludh0`|[Profile](https://t.me/Ludh0)|✅
+**Instagram**|`ludho_`|[Page](https://instagram.com/ludho_)
 **YouTube**|`Ludho Mohammadpour`|[Channel](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg)|❌
 **Twitter**|`Am25` `(am2501666699)`|[Profile](https://twitter.com/am2501666699)|❌
 **Twitch**|`ludho_mp`|[Channel](https://www.twitch.tv/ludho_mp)|❌
