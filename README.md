@@ -11,20 +11,6 @@ You can do the same for your github profile by creating a repository with the na
   - [Github Stats](#github-stats-2)
 
 ---
-## About Me
-
-Hello there! My name is Ludho Mohammadpour, a passionate individual with a deep love for JavaScript. I am currently pursuing my studies in Computer Engineering, and I'm excited to combine my technical skills with my creativity to build awesome applications and APIs.
-
-On my GitHub profile, you will primarily find JavaScript projects as it is my preferred programming language. While most of my projects are currently set as private, I strive to make them available to the public as soon as I consider them finished.
-
-I have a penchant for coming up with cool ideas, and I keep a collection of ongoing projects that I can quickly finalize when the need arises. I believe in the power of experimentation and continuous learning to enhance my skills and deliver innovative solutions.
-
-Oh, and I have a soft spot for triangles. They are not only geometrically fascinating but also symbolize balance and harmony for me.
-
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project. Happy coding!
-
----
-
 ## Frequently Asked Questions
 
 - What's Your Name?
@@ -41,7 +27,20 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
   - I enjoy R&B/Soul music.
 
 Feel free to contact me if you have any additional questions!
+---
+## About Me
 
+Hello there! My name is Ludho Mohammadpour, a passionate individual with a deep love for JavaScript. I am currently pursuing my studies in Computer Engineering, and I'm excited to combine my technical skills with my creativity to build awesome applications and APIs.
+
+On my GitHub profile, you will primarily find JavaScript projects as it is my preferred programming language. While most of my projects are currently set as private, I strive to make them available to the public as soon as I consider them finished.
+
+I have a penchant for coming up with cool ideas, and I keep a collection of ongoing projects that I can quickly finalize when the need arises. I believe in the power of experimentation and continuous learning to enhance my skills and deliver innovative solutions.
+
+Oh, and I have a soft spot for triangles. They are not only geometrically fascinating but also symbolize balance and harmony for me.
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project. Happy coding!
+
+---
 ---
 
 ## Social media
