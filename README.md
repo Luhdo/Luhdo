@@ -27,6 +27,7 @@ You can do the same for your github profile by creating a repository with the na
   - I enjoy R&B/Soul music.
 
 Feel free to contact me if you have any additional questions!
+
 ---
 ## About Me
 
