@@ -42,7 +42,6 @@ Oh, and I have a soft spot for triangles. They are not only geometrically fascin
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project. Happy coding!
 
 ---
----
 
 ## Social media
 
