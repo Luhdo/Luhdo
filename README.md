@@ -52,7 +52,7 @@ Platform|Name|Link to profile|Active
 **Website**[^3]|`Ludho.xyz`|[Website](https://ludho.xyz)|✅
 **Discord**|`ludho_`|[Profile<img src="https://discord.c99.nl/widget/theme-4/538014645068234753.png" height="45px">](https://discord.com/users/538014645068234753) |✅
 **Telegram**|`@Ludh0`|[Profile](https://t.me/Ludh0)|✅
-**Instagram**|`ludho_`|[Page](https://instagram.com/ludho_)
+**Instagram**|`ludho_`|[Page](https://instagram.com/ludho_)|✅
 **YouTube**|`Ludho Mohammadpour`|[Channel](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg)|❌
 **Twitter**|`Am25` `(am2501666699)`|[Profile](https://twitter.com/am2501666699)|❌
 **Twitch**|`ludho_mp`|[Channel](https://www.twitch.tv/ludho_mp)|❌
