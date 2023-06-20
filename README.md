@@ -49,7 +49,7 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
-**Website**[^3]|`Ludho.xyz`|[Website](https://ludho.xyz)|✅
+**Website**[^3]|`Ludho.ir`|[Website](https://ludho.ir)|✅
 **Discord**|`ludho_`|[Profile<img src="https://discord.c99.nl/widget/theme-4/538014645068234753.png" height="45px">](https://discord.com/users/538014645068234753) |✅
 **Telegram**|`@Ludh0`|[Profile](https://t.me/Ludh0)|✅
 **Instagram**|`ludho_`|[Page](https://instagram.com/ludho_)|✅
