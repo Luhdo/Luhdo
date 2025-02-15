@@ -80,7 +80,7 @@ I'm Ludho, a Full Stack Developer and Computer Engineering student passionate ab
 |----------|---------|------|
 | 🌐 Website | In Progress | [ludho.ir](https://ludho.ir) |
 | 📱 Discord | [<img src="https://discord.c99.nl/widget/theme-4/538014645068234753.png" height="45px">](https://discord.com/users/538014645068234753) | [ludho_](https://discord.com/users/538014645068234753) |
-| 💬 Telegram | Active | [@Ludh0](https://t.me/LudhoMP) |
+| 💬 Telegram | Active | [@LudhMP](https://t.me/LudhoMP) |
 | 📷 Instagram | Active | [@ludho_](https://instagram.com/ludho_) |
 
 *Also find me on: [YouTube](https://www.youtube.com/channel/UCuXZxz4Ej7IQnuU86RfpWOg) · [Twitter](https://twitter.com/am2501666699) · [Twitch](https://www.twitch.tv/ludho_mp) · [Steam](https://steamcommunity.com/id/Am25_2/) · [osu!](https://osu.ppy.sh/users/15257509) · [DeviantArt](https://www.deviantart.com/ludhomp)*
